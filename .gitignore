@@ -1,0 +1,6 @@
+.ipynb_checkpoints
+__*
+*.zip
+*.tar.gz
+*.csv
+*.txt
